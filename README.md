@@ -1,7 +1,6 @@
 
 # Employee Management System
-
-This is a java project which follows CRUD - (Create, Read, Update and Delete) feature.
+### This is a java project which follows CRUD - (Create, Read, Update and Delete) feature.
 The project is implemented on Apache Netbeans.
 
 
